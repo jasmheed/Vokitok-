@@ -183,7 +183,7 @@ class _LoginPageState extends State<LoginPage> {
                     ),
                     textAlign: TextAlign.center,
                   ),
-                  SizedBox(height: height * 0.03),
+                  SizedBox(height: height * 0.3),
                   // Email text field
                   CustomTextField(
                     controller: emailController,
